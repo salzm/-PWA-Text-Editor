@@ -12,4 +12,3 @@ From there, in the webpack file, I added the return but will go back to add the 
 Source / Credits :
 
 Website URL!!
-https://note-takerz.herokuapp.com/
